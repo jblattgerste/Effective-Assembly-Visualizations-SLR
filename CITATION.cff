@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this dataset or the accompanying paper, please cite the paper listed below."
+title: "Supplementary Dataset for What Constitutes Effective Step-by-Step Assembly Visualizations?"
+authors:
+  - family-names: Blattgerste
+    given-names: Jonas
+  - family-names: Pfeiffer
+    given-names: Thies
+year: 2026
+date-released: 2026-05-09
+type: dataset
+abstract: "Supplementary dataset documenting the initial publication database for a systematic scoping review on effective step-by-step assembly visualizations."
+keywords:
+  - assembly instructions
+  - assembly visualizations
+  - systematic scoping review
+  - visual instructions
+  - supplementary dataset
+repository-code: "https://github.com/jblattgerste/Effective-Assembly-Visualizations-SLR"
+url: "https://jblattgerste.github.io/Effective-Assembly-Visualizations-SLR/"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Blattgerste
+      given-names: Jonas
+    - family-names: Pfeiffer
+      given-names: Thies
+  title: "What Constitutes Effective Step-by-Step Assembly Visualizations? A Systematic Scoping Review and Call for More Empirical Research"
+  collection-title: "Proceedings of the 19th International Conference on PErvasive Technologies Related to Assistive Environments"
+  year: 2026
