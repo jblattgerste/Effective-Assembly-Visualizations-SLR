@@ -2,7 +2,7 @@
 
 This repository provides the supplementary dataset and static browsing page for the paper:
 
-> Jonas Blattgerste and Thies Pfeiffer. 2026. What Constitutes Effective Step-by-Step Assembly Visualizations? A Systematic Scoping Review and Call for More Empirical Research. In Proceedings of the 19th International Conference on PErvasive Technologies Related to Assistive Environments.
+> Jonas Blattgerste and Thies Pfeiffer. 2026. What Constitutes Effective Step-by-Step Assembly Visualizations? A Systematic Scoping Review and Call for More Empirical Research. In Fillia Makedon, Vassilis Athitsos, Ming Li, and Sama Nikanfar (Eds.), *Pervasive Technologies Related to Assistive Environments: 19th International Conference, PETRA 2026, Proceedings, Part II*. Communications in Computer and Information Science, vol. 3074. Springer Nature Switzerland, Cham. ISBN: 978-3-032-38042-5.
 
 [![Project Web Page](https://img.shields.io/badge/Project-Web%20Page-1f6feb?style=for-the-badge)](https://jblattgerste.github.io/Effective-Assembly-Visualizations-SLR/)
 [![Citation Metadata](https://img.shields.io/badge/Citation-CFF%20Metadata-0a7a5a?style=for-the-badge)](https://github.com/jblattgerste/Effective-Assembly-Visualizations-SLR/blob/main/CITATION.cff)
@@ -13,7 +13,6 @@ The final paper reports a corpus of 26 empirical studies after scope refinement 
 
 ## Repository Contents
 
-- [Blattgerste2026Effective.pdf](Blattgerste2026Effective.pdf): final paper PDF
 - [publications.csv](publications.csv): initial publication database
 - [index.html](index.html): static supplementary page for browsing and filtering the dataset
 - [script.js](script.js) and [style.css](style.css): website behavior and styling
@@ -21,6 +20,8 @@ The final paper reports a corpus of 26 empirical studies after scope refinement 
 
 ## Links
 
+- Download paper: [PDF on Mixality](https://mixality.de/wp-content/uploads/2026/09/Blattgerste2026Assembly.pdf)
+- Publisher: [PETRA 2026 proceedings, Part II on SpringerLink](https://link.springer.com/book/9783032380418)
 - Project web page: <https://jblattgerste.github.io/Effective-Assembly-Visualizations-SLR/>
 - Repository: <https://github.com/jblattgerste/Effective-Assembly-Visualizations-SLR>
 
@@ -35,10 +36,17 @@ The website and CSV intentionally preserve this broader pre-refinement set, incl
 If you use this dataset or the accompanying paper, please cite:
 
 ```bibtex
-@inproceedings{Blattgerste2026Effective,
+@inproceedings{Blattgerste2026Assembly,
   author = {Blattgerste, Jonas and Pfeiffer, Thies},
   title = {What Constitutes Effective Step-by-Step Assembly Visualizations? A Systematic Scoping Review and Call for More Empirical Research},
-  booktitle = {Proceedings of the 19th International Conference on PErvasive Technologies Related to Assistive Environments},
-  year = {2026}
+  booktitle = {Pervasive Technologies Related to Assistive Environments: 19th International Conference, PETRA 2026, Proceedings, Part II},
+  editor = {Makedon, Fillia and Athitsos, Vassilis and Li, Ming and Nikanfar, Sama},
+  year = {2026},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  series = {Communications in Computer and Information Science},
+  volume = {3074},
+  isbn = {978-3-032-38042-5},
+  url = {https://mixality.de/wp-content/uploads/2026/09/Blattgerste2026Assembly.pdf}
 }
 ```

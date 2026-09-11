@@ -6,7 +6,6 @@ authors:
     given-names: Jonas
   - family-names: Pfeiffer
     given-names: Thies
-year: 2026
 date-released: 2026-05-09
 type: dataset
 abstract: "Supplementary dataset documenting the initial publication database for a systematic scoping review on effective step-by-step assembly visualizations."
@@ -26,5 +25,22 @@ preferred-citation:
     - family-names: Pfeiffer
       given-names: Thies
   title: "What Constitutes Effective Step-by-Step Assembly Visualizations? A Systematic Scoping Review and Call for More Empirical Research"
-  collection-title: "Proceedings of the 19th International Conference on PErvasive Technologies Related to Assistive Environments"
+  collection-title: "Pervasive Technologies Related to Assistive Environments: 19th International Conference, PETRA 2026, Proceedings, Part II"
+  editors:
+    - family-names: Makedon
+      given-names: Fillia
+    - family-names: Athitsos
+      given-names: Vassilis
+    - family-names: Li
+      given-names: Ming
+    - family-names: Nikanfar
+      given-names: Sama
   year: 2026
+  publisher:
+    name: Springer Nature Switzerland
+    city: Cham
+  notes: "Series: Communications in Computer and Information Science"
+  volume: 3074
+  isbn: "978-3-032-38042-5"
+  abstract: "Effective step-by-step assembly instructions depend on visual design characteristics that reduce ambiguity and cognitive load, yet there is no clear consensus on which characteristics contribute to instructional effectiveness. This gap becomes pressing as recent advances in artificial intelligence have increased interest in automatically generating assembly instructions from engineering data and process descriptions. To scope what is already known, we conducted a systematic scoping review of existing research on effective visual assembly instructions. This paper presents our methods and findings, mapping the current state of research, highlighting remaining gaps, and calling for more systematic empirical studies. By scoping existing efforts, we provide a concrete starting point for future work on the visual design of assembly instructions."
+  url: "https://mixality.de/wp-content/uploads/2026/09/Blattgerste2026Assembly.pdf"
